@@ -22,5 +22,13 @@
   "scripts": {
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook"
-  }
+  },
+  "browserslist": [
+    "last 2 Chrome versions",
+    "last 2 Edge versions",
+    "last 2 Firefox versions",
+    "last 2 Safari versions",
+    "last 2 ChromeAndroid versions",
+    "ie >= 11"
+  ]
 }
